@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">AppFB_GDS0241</string>
+
+    <string name="app_seccion">Sección:</string>
+    <string name="app_asignatura">Asignatura</string>
+    <string name="app_tema">Escribe el tema</string>
+    <string name="registrar_tema">Registrar tema</string>
+
+    <string-array name="seccion_array">
+        <item>TSU</item>
+        <item>Ingeniería</item>
+        <item>Ingeniería a distancia</item>
+        <item>Licencia modalidad distancia</item>
+    </string-array>
+
+    <string-array name="area_array">
+        <item>Matemáticas</item>
+        <item>Informática</item>
+        <item>Inglés</item>
+        <item>Formación Sociocutural</item>
+        <item>Desarrollo de software</item>
+    </string-array>
+</resources>
